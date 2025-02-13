@@ -1,0 +1,51 @@
+industry,Gas_Type,Total_emission
+"Total Industry and Households","Greenhouse gas",3219017.0013755104
+"Total Industry and Households","Carbon dioxide",2381985.9424931793
+"Electricity, Gas, Steam and Air Conditioning Supply","Greenhouse gas",894884.1773015069
+"Electricity, Gas, Steam and Air Conditioning Supply","Carbon dioxide",872156.0000620389
+Manufacturing,"Greenhouse gas",686080.7726251879
+Manufacturing,"Carbon dioxide",627913.263943464
+"Total Industry and Households",Methane,619273.0641916981
+"Agriculture, Forestry and Fishing","Greenhouse gas",416919.10834568995
+"Total Households","Greenhouse gas",334254.2050549991
+"Total Households","Carbon dioxide",311391.268623903
+Mining,"Greenhouse gas",290489.12480838
+"Transportation and Storage","Greenhouse gas",268169.2188457989
+"Agriculture, Forestry and Fishing",Methane,262468.09529477503
+"Transportation and Storage","Carbon dioxide",254743.79140792397
+Mining,Methane,181701.00729471497
+"Total Industry and Households","Nitrous oxide",163980.04941836797
+"Water supply; sewerage, waste management and remediation activities","Greenhouse gas",152308.751538538
+"Water supply; sewerage, waste management and remediation activities",Methane,132575.53085881198
+"Other Services Industries","Greenhouse gas",122281.70289368698
+"Agriculture, Forestry and Fishing","Nitrous oxide",122108.194036525
+"Other Services Industries","Carbon dioxide",111070.54023253001
+Mining,"Carbon dioxide",108426.77144320699
+"Total Industry and Households","Fluorinated gases",53777.94531327601
+Construction,"Greenhouse gas",53629.940014577
+Construction,"Carbon dioxide",52961.56121331901
+Manufacturing,"Fluorinated gases",40572.704581772996
+"Agriculture, Forestry and Fishing","Carbon dioxide",32253.280018644
+"Total Households",Methane,15007.675432396998
+"Electricity, Gas, Steam and Air Conditioning Supply",Methane,14410.733311666001
+Manufacturing,"Nitrous oxide",13095.1991409
+"Water supply; sewerage, waste management and remediation activities","Carbon dioxide",11069.465542039
+"Electricity, Gas, Steam and Air Conditioning Supply","Nitrous oxide",8136.808202262999
+"Water supply; sewerage, waste management and remediation activities","Nitrous oxide",7928.169487397001
+"Other Services Industries","Fluorinated gases",6090.870995333999
+"Transportation and Storage","Nitrous oxide",5407.637746504999
+"Total Households","Nitrous oxide",5317.896696638999
+"Transportation and Storage",Methane,4619.719615211001
+Manufacturing,Methane,4499.604965474
+"Other Services Industries",Methane,3800.1354555570015
+"Transportation and Storage","Fluorinated gases",3398.070069426
+"Total Households","Fluorinated gases",2537.3643058699995
+"Other Services Industries","Nitrous oxide",1320.1562084619998
+"Water supply; sewerage, waste management and remediation activities","Fluorinated gases",735.585647912
+Mining,"Nitrous oxide",357.64407657899994
+Construction,"Nitrous oxide",308.34382498599996
+Construction,Methane,190.561964259
+"Electricity, Gas, Steam and Air Conditioning Supply","Fluorinated gases",180.63571212000005
+Construction,"Fluorinated gases",169.47301131199995
+"Agriculture, Forestry and Fishing","Fluorinated gases",89.53899255299999
+Mining,"Fluorinated gases",3.701996501
