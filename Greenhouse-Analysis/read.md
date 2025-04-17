@@ -51,7 +51,7 @@ The analysis is complemented by a dashboard created in Google Looker Studio.
 ---
 
 ## How to Access the Dashboard
-- [Google Looker Studio Report (Link Here)](#)  
+  
 *https://lookerstudio.google.com/reporting/13942095-9a53-4c1f-910c-301464680dda/page/2iJrE*
 
 ---
